@@ -12,7 +12,6 @@ next-generation ones.
 
 The resulting plot is quite casual: it uses matplotlib's XKCD mode.
 
-
 Dependencies
 ============
 
@@ -42,11 +41,11 @@ packages, both in Python 2 and Python 3.
 Usage
 =====
 
-Download the ``.py`` file and run it: It will create a pdf image:
-``sequencing_cost.pdf``. The code is quite simple, so it should be
+Download the ``.py`` file and run it, it will create a pdf file
+(``sequencing_cost.pdf``). The code is quite simple, so it should be
 easy to tweak it if needed (remember to submit your improvements!).
 
-You can also simply directly download the precomputed image.
+You can also just download the precomputed image.
 
 Contribute
 ==========
