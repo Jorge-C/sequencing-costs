@@ -45,7 +45,9 @@ Download the ``.py`` file and run it, it will create a pdf file
 (``sequencing_cost.pdf``). The code is quite simple, so it should be
 easy to tweak it if needed (remember to submit your improvements!).
 
-You can also just download the precomputed image.
+You can also just download the precomputed pdf, which uses data
+available in http://www.genome.gov/sequencingcosts/ since February 7,
+2014.
 
 Contribute
 ==========
