@@ -55,9 +55,16 @@ Contribute
 Please post any issue that you may find in the issue tracker, share it
 with friends, contribute aesthetic improvements...
 
+Cite & References
+=================
 
-References
-==========
+If you use this image, you can cite
+
+.. [0] Cañardo Alastuey, Jorge; Vázquez-Baeza, Yoshiki (2014):
+   Decrease in sequencing cost, compared to Moore's law. figshare.
+   http://dx.doi.org/10.6084/m9.figshare.972922
+
+The original data and graphics appear in
 
 .. [1] Wetterstrand KA. DNA Sequencing Costs: Data from the NHGRI
    Genome Sequencing Program (GSP) Available at:
